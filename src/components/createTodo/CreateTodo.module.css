@@ -1,0 +1,17 @@
+
+ input {
+    padding: 9px 50% 9px 4px;
+    border: 1px solid rgba(214, 213, 213, 0.87);;
+    border-radius: 3.5px;
+}
+  
+ button {
+    background-color: rgb(116, 0, 184);
+    border: none;
+    color: #FFFFFF;
+    border-top-right-radius: 3.5px;
+    border-bottom-right-radius: 3.5px;
+    padding: 10px 33px;
+    margin-left: -2px;
+    cursor: pointer;
+}

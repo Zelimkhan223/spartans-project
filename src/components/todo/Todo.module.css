@@ -1,0 +1,20 @@
+.todoSection  div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+}
+
+.todoSection button {
+    color: #FFFFFF;
+    background-color: rgb(116, 0, 184);
+    border-radius: 3.5px;
+    padding: 10px 13px;
+    border: none;
+    cursor: pointer;
+  }
+
+.complite {
+    text-decoration: line-through;
+}

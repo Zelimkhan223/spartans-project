@@ -1,0 +1,56 @@
+.App {
+  width: 555px;
+  min-height: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 120px auto;
+}
+
+.content {
+  padding: 10px;
+}
+
+.todosWrapper {
+  border: 1px solid rgb(192, 192, 192);
+  margin-top: 10px;
+}
+.todosWrapper > div:nth-child(2n) {
+  background-color: rgb(192, 192, 192);;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
